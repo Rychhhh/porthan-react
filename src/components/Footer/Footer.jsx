@@ -16,7 +16,7 @@ const Footer = () => {
       <Container>
         <span className="back-to-top">
           <Link to="hero" smooth duration={1000}>
-            <i className="fa fa-angle-up fa-2x" aria-hidden="true" />
+            <i className="fa fa-angle-up" aria-hidden="true" />
           </Link>
         </span>
         <div className="social-links">
@@ -39,8 +39,8 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - Template developed by{' '}
-          <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
-            Jacobo Martínez
+          <a href="https://github.com/Ryhann" target="_blank" rel="noopener noreferrer">
+            Rayhan Rizki Putra
           </a>
         </p>
 
