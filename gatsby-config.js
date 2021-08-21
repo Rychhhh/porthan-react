@@ -1,4 +1,4 @@
-module.exports = {
+module.export = {
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
