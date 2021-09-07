@@ -82,7 +82,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'instagram',
-      url: 'https://www.instagram.com/spcyl_/',
+      url: 'https://www.instagram.com/hannhhehehe/',
     },
     {
       id: nanoid(),
